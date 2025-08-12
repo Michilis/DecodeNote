@@ -1,3 +1,3 @@
-#Decode Note
+# Decode Note
 
-###Nostr note decoder
+### Nostr note decoder
